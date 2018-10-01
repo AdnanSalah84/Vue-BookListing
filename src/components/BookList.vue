@@ -11,7 +11,7 @@
 import BookItem from './BookItem';
 export default{
     name: 'BookList',
-    components{
+    components: {
         BookItem
     },
     data() {
